@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Imc.Consola/Imc.Console.csproj" Id="f91c2473-d3a3-4fd0-be25-29aef67d0b94" />
+  <Project Path="Imc.Models/Imc.Models.csproj" Id="95b0c065-def3-41eb-90b9-d24c36f04750" />
   <Project Path="Imc/Imc.csproj" />
 </Solution>

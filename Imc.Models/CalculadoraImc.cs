@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Imc.Models
+﻿namespace Imc.Models
 {
     public static class CalculadoraImc
     {
@@ -27,6 +23,11 @@ namespace Imc.Models
                 return "Obesidad";
             }
             return "Obesidad Extrema";
+        }
+
+        internal static decimal IndiceMasaCorporal(decimal peso, object estatura)
+        {
+            throw new NotImplementedException();
         }
     }
 }
